@@ -31,7 +31,7 @@ dependencies:
   google_sign_in_all_platforms_mobile:     
     git:
       url: https://github.com/hadi-14/google_sign_in_all_platforms.git
-      ref: patch
+      ref: 'patch-1'
       path: google_sign_in_all_platforms_mobile
 
   http: ^1.2.0
